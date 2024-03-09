@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MacroRegAddressLib><MacroRegAddress Name="window_value" OperationMode="2" DataType="unsigned short" ArrayNumber="1"><Address Function="window_value" UseIndexAddr="0" ImportTag="No"><RegAddr MasterValue="3201" SlaveValue="0" MasterValueType="2" WordCount="1"><HMIID UsagePort="0">0</HMIID><PLCID PLCGEID="-7077632">65534</PLCID><AddressType SystemID="255" bPLCLabelAddr="0">LW</AddressType><AddressValue Type="Word" Length="1" CodeType="0">3201</AddressValue><Priority>普通</Priority></RegAddr></Address></MacroRegAddress></MacroRegAddressLib>
